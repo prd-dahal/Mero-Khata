@@ -1,0 +1,22 @@
+{
+  "name": "mero-khata",
+  "version": "1.0.0",
+  "description": "An Api for mobile app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prd-dahal/Mero-Khata.git"
+  },
+  "author": "Pradeep Dahal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prd-dahal/Mero-Khata/issues"
+  },
+  "homepage": "https://github.com/prd-dahal/Mero-Khata#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
